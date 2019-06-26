@@ -1,7 +1,0 @@
-delimiter $
-create function----()
-returns 
-
-deterministic
-begin
-declare msg ;
